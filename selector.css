@@ -1,0 +1,22 @@
+h1,h2,h3{
+background-color: dimgreys;
+
+}
+
+p+p+p{
+
+color: aqua;
+}
+
+p+p {
+
+color: yellow;
+
+}
+
+
+p>b{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    font-size: large;
+}
